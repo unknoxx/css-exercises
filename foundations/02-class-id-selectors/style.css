@@ -1,0 +1,15 @@
+.paraclass {
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+  background-color: hsl(351, 100%, 86%);
+}
+#oneid {
+  color: #0000ff;
+  font-size: 36px;
+}
+.fontsize {
+  font-size: 24px;
+}
+#anotherid {
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
